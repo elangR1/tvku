@@ -8,16 +8,16 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_8mf17h87/landscape_carousel_xhdpi.jpg" group-title="KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="NEWS",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="LOKAL",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/CNBC_Indonesia.png" group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE",Trvl Channel
+#EXTINF:-1 group-title="VARIETY",Trvl Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LIFESTYLE",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="VARIETY",BBC Lifestyle
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
 
 ########################## F M ##########################
@@ -220,6 +220,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
 
 ########################## Vision ##########################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png" group-title="NEWS" tvg-name="ABC Australia HD",ABC Australia HD
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" group-title="NEWS" tvg-name="",Al Jazeera HD
+https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",TRT WORLD
+https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
