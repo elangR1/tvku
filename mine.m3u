@@ -53,6 +53,15 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://icon.mammothtv.my.id/film/wbtv.png" tvg-id="WarnerTVAsia.us" tvg-name="WarnerTV", WarnerTV
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="VARIETY",Cooking TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
@@ -156,19 +165,19 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Smithsonian
-https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/smithsonian.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="VARIETY",BBC Lifestyle
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbclifestyle.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/z5HmmGH/20220926-161825.png" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits", HBO Hits
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
+##EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/z5HmmGH/20220926-161825.png" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits", HBO Hits
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/3hTwjV9/20220926-161144.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71058
+##EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/3hTwjV9/20220926-161144.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71058
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://icon.mammothtv.my.id/film/wbtv.png" tvg-id="WarnerTVAsia.us" tvg-name="WarnerTV", WarnerTV
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71094
+##EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://icon.mammothtv.my.id/film/wbtv.png" tvg-id="WarnerTVAsia.us" tvg-name="WarnerTV", WarnerTV
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71094
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png" tvg-id="" tvg-name="BabyTV", Baby TV
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/2951
@@ -218,8 +227,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index
 
 #EXTINF:-1 group-title="LOKAL",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",INDOSIAR dead
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 group-title="LOKAL",Jakarta Globe
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL",JakTV
@@ -230,8 +237,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL",Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",SCTV dead
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS 7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS TV
@@ -242,19 +247,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",West Java Network dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL",Berita Satu World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
-
 #EXTINF:-1 group-title="NEWS",CNA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
 #EXTINF:-1 group-title="NEWS",CNN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 #EXTINF:-1 group-title="NEWS",DW (En)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",DW (De) dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8
 #EXTINF:-1 group-title="NEWS",F24
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
 #EXTINF:-1 group-title="NEWS",EuroNews
@@ -270,14 +270,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/inde
 
 #EXTINF:-1 group-title="KIDS",Animax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",Boomerang dead
+#EXTINF:-1 group-title="KIDS",Cartoonito
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",DaVinci dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",Dreamworks dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
 #EXTINF:-1 group-title="KIDS",Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
@@ -294,10 +290,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 #EXTINF:-1 group-title="SPORTS",Premier Sport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
-#EXTINF:-1 group-title="DEAD",Balai Kota Chn dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",Balai Kota Bandung dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",Celestial Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="OTHERS",IDX Chn
@@ -322,8 +314,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",Jiangsu TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",Anhui TV dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch222%29/index.m3u8
+
 #EXTINF:-1 group-title="OTHERS",XingKong TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",Zhejiang TV
@@ -366,8 +357,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",Sony Max
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
-#EXTINF:-1 group-title="DEAD",Moji dead
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",Lifestyle
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
 #EXTINF:-1 group-title="OTHERS",First Wariors
