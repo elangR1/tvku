@@ -43,7 +43,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJmM2QyNGJjYy1kYmQ3LTQ0YzctOGE4OC00NjY1ZDMyMTU0NjEiLCJzZXNzaW9uSWQiOiJaak5rTWpSaVkyTXRaR0prTnkwME5HTTNMVGhoT0RndE5EWTJOV1F6TWpFMU5EWXhMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5JUVU1T1JVeEVVazBzTVRjd05qUTBNekF4TXl4aGJtUnliMmxrTERCZk9HMW1NVGRvT0Rjc2RXNWtaV1pwYm1Wa0xIVnVaR1ZtYVc1bFpBPT0iLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
