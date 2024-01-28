@@ -2,11 +2,6 @@
 
 ##########################MAXSTREAM##########################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsp.openwindow040.workers.dev
-#EXTINF:-1 group-title="HBO Group" tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits (max)
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -54,6 +49,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_8mf17h87/landscape_carousel_xhdpi.jpg" group-title="KNOWLEDGE",TechStorm
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(48b303ef-7d24-4290-b09e-80d5b69ad2b1)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJmM2QyNGJjYy1kYmQ3LTQ0YzctOGE4OC00NjY1ZDMyMTU0NjEiLCJzZXNzaW9uSWQiOiJaak5rTWpSaVkyTXRaR0prTnkwME5HTTNMVGhoT0RndE5EWTJOV1F6TWpFMU5EWXhMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5JUVU1T1JVeEVVazBzTVRjd05qUTBNekF4TXl4aGJtUnliMmxrTERCZk9HMW1NVGRvT0Rjc2RXNWtaV1pwYm1Wa0xIVnVaR1ZtYVc1bFpBPT0iLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="hitsnow" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Hits Now
+http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 
 ##########################DENS TV##########################
 
