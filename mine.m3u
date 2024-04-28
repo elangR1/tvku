@@ -1,4 +1,11 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,http://epg.kampung.xyz" refresh="3600"
+########################## BBC ##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC One
+https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20one
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV4
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv4
+
 ########################## CUBMU ##########################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
