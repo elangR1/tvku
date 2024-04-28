@@ -3,8 +3,33 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC One
 https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20one
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC Two
+https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20two
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Dave
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=dave
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",5 Star
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=5star
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV1
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV2
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV3
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv3
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV4
 https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 4
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%204
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 5
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%205
 
 ########################## CUBMU ##########################
 
