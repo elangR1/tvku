@@ -127,7 +127,16 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax (Sg)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-======================================================================================
+============================== Github ===================================
+
+#EXTINF:-1 group-title="KNOWLEDGE",DMAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",HGTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+
+#EXTINF:-1 group-title="VARIETY",Food Network
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
 #EXTINF:-1 group-title="VARIETY",AFN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
@@ -150,21 +159,15 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",DMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Stingray Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
 
-#EXTINF:-1 group-title="VARIETY",Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+
 #EXTINF:-1 group-title="VARIETY",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
-
 
 #EXTINF:-1 group-title="LOKAL",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
