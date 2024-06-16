@@ -191,6 +191,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 #KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+
 #EXTINF:-1 group-title="VARIETY",Trvl Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
