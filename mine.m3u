@@ -139,6 +139,32 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", Motor Racing TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
 
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg" group-title="NEWS",CNA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA
+
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/81.jpg" group-title="NEWS",DW (En)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg" group-title="NEWS",France 24
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
+
+#EXTINF:-1 group-title="NEWS",NHK World
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/90.jpg" group-title="NEWS",TV5 Monde
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE
+
 ########################## OTHERS #########################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://frenavit.com/wp-content/uploads/2011/02/189147100.jpg.scaled500.jpg" group-title="LOKAL",Suara Surabaya Radio
@@ -251,24 +277,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTINF:-1 group-title="LOKAL",Berita Satu World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
 
-#EXTINF:-1 group-title="NEWS",CNA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",CNN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",DW (En)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",F24
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",EuroNews
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",NHK World
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",Rai Italia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
-#EXTINF:-1 group-title="NEWS",TV5 Monde
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 #EXTINF:-1 group-title="NEWS",RT English
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="NEWS",CNN
+https://edge2.laotv.la/live/CNN/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 group-title="NEWS",EuroNews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+#EXTINF:-1 group-title="NEWS",Rai Italia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
 
 #EXTINF:-1 group-title="KIDS",Animax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
