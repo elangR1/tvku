@@ -216,31 +216,31 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 ============================== Github ===================================
 
 #EXTINF:-1 group-title="KNOWLEDGE",DMAX
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/dmax.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE",HGTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/hgtv.m3u8
 
 #EXTINF:-1 group-title="BBC",BBC Food
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcfood.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/bbcfood.m3u8
 
 #EXTINF:-1 group-title="VARIETY",Food Network
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foodnetwork.m3u8
 
 #EXTINF:-1 group-title="VARIETY",Trvl Channel
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/trvlchannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Discovery Science
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoverysci.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Discovery Turbo
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34WQfut.png" group-title="BBC",BBC Earth
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcearth.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BBC",BBC Lifestyle
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/bbclifestyle.m3u8
 
 ########################## F M ##########################
 
