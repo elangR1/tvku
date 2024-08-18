@@ -93,7 +93,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="LIFESTYLE",Cooking TV
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="VARIETY",Cooking TV
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e0182597009c021ef/manifest.mpd
 
 
@@ -190,9 +190,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/dma
 
 #EXTINF:-1 group-title="KNOWLEDGE",HGTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/hgtv.m3u8
-
-#EXTINF:-1 group-title="BBC",BBC Food
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/bbcfood.m3u8
 
 #EXTINF:-1 group-title="VARIETY",Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foodnetwork.m3u8
@@ -490,8 +487,8 @@ https://melon-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="FoodTravel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png " group-title="LIFESTYLE",📺 Food Travel
-https://melon-live-cdn.mncnow.id/live/eds/Foodtravel/sa_dash_vmx/Foodtravel.mpd
+#EXTINF:-1 tvg-id="FoodTravel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png " group-title="VARIETY",📺 Food Travel
+https://melon-live-cdn.mncnow.id/live/eds/Foodtravel/sa_dash_vmx/foodtravel.mpd
 
 ####### Revive and search altenative #####
 
@@ -633,6 +630,8 @@ https://melon-live-cdn.mncnow.id/live/eds/Foodtravel/sa_dash_vmx/Foodtravel.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
 ##EXTINF:-1 group-title="KIDS",Davinci ⛔
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/Stream(03)/index.m3u8
+##EXTINF:-1 group-title="BBC",BBC Food ⛔
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/bbcfood.m3u8
 ##########################MAXSTREAM##########################
 
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
