@@ -1,38 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,http://epg.kampung.xyz" refresh="3600"
-########################## BBC ##########################
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News
-https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC One
-https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20one
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC Two
-https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20two
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Dave
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=dave
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",5 Star
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=5star
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV1
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV2
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv2
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV3
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv3
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV4
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv4
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 4
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%204
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 5
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%205
 
 ########################## CUBMU ###########################
 
@@ -545,6 +511,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #EXTINF:-1 tvg-id="FoodTravel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png " group-title="VARIETY",📺 Food Travel
 https://cempedak-live-cdn.mncnow.id/live/eds/Foodtravel/sa_dash_vmx/foodtravel.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="KNOWLEDGE",📺 BBC Earth
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
 ####### Revive and search altenative #####
 
 ##EXTINF:-1 group-title="LOKAL",BTV ⛔
@@ -693,3 +665,38 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Foodtravel/sa_dash_vmx/foodtravel.m
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+
+########################## BBC ##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News ⛔
+#https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC One ⛔
+#https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20one
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC Two ⛔
+#https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20two
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Dave ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=dave
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",5 Star ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=5star
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV1 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV2 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV3 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv3
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",ITV4 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 4 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%204
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Channel 5 ⛔
+#https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=channel%205
