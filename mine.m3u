@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,http://epg.kampung.xyz" refresh="3600"
 ########################## VOD ###########################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="VOD" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/07/film-a-quiet-place-day-one-2024-lk21-d21.jpg.webp",A Quiet Place: Day One 2024
-#https://stream.hownetwork.xyz/xxx/a-quiet-place-day-one-2024-webdl_X_dd6849f5/22/480.m3u8
-
 ########################## CUBMU ###########################
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -140,6 +136,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foo
 
 #EXTINF:-1 group-title="VARIETY",Trvl Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/trvlchannel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="KNOWLEDGE",Smithsonian Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264767
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Discovery Science
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoverysci.m3u8
