@@ -205,6 +205,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
+#EXTINF:-1 group-title="VARIETY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",✨ Lifetime
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+
 ########################## 🚀 DENS TV ##########################
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="RELIGI" tvg-logo="https://www.useetv.com/pimages/logo_rodjatv_small1.png",🚀 Rodja TV
@@ -385,7 +391,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="VARIETY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",📺 Lifetime
-https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
