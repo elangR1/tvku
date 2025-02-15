@@ -6,8 +6,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="TESSS",BOOMERANG
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="TESSS",MOTOR RACING
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 ########################## CUBMU ###########################
 
