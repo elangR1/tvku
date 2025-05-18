@@ -24,23 +24,6 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kDghfOK.png?v=1.0.0.1" group-title="TES" tvg-id="Da Vinci Learning" tvg-id="DaVinciLearning.sg" tvg-name"Da Vinci Asia", Da Vinci Learning
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="TES" tvg-logo="https://cdn4.mbahnunungonline.net/img/YI7WVHx.png?v=1.0.0.1" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="TES" tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
-
-#EXTINF:-1 tvg-id="518" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="TES",ABC Australia
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
-
 ########################## OTHERS #########################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://frenavit.com/wp-content/uploads/2011/02/189147100.jpg.scaled500.jpg" group-title="LOKAL",Suara Surabaya Radio
@@ -60,6 +43,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rt.png" group-title="NEWS",Russia Today
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TES", DISCOVERY SCI
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
