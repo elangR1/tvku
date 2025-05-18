@@ -30,6 +30,16 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kDghfOK.png?v=1.0.0.1" group-title="TES" tvg-id="Da Vinci Learning" tvg-id="DaVinciLearning.sg" tvg-name"Da Vinci Asia", Da Vinci Learning
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="TES" tvg-logo="https://cdn4.mbahnunungonline.net/img/YI7WVHx.png?v=1.0.0.1" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="TES" tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
 ########################## OTHERS #########################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://frenavit.com/wp-content/uploads/2011/02/189147100.jpg.scaled500.jpg" group-title="LOKAL",Suara Surabaya Radio
