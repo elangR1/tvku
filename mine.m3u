@@ -20,7 +20,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 #EXTINF:-1 group-title="VARIETY", tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" group-title="KNOWLEDGE",🔥 BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -640,9 +640,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;useri
 
 ########################## BBC ##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News ⛔
-#https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
@@ -654,6 +651,9 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Four
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News ⛔
+#https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Dave ⛔
 #https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=dave
