@@ -338,7 +338,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="NEWS",✨ NHK World
@@ -481,7 +481,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" group-title="NEWS" tvg-name="",📺 Al Jazeera HD
 #https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
