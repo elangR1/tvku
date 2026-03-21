@@ -12,7 +12,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 ########################## TES ###########################
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="VARIETY" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png",🔥 BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -588,11 +588,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="ENTERTAINMENT",📺 Cinemachi Max
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",📺 IMC
-https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -732,22 +733,22 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
-#https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Two
-#https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Three
-#https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
+https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Four
-#https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
+https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News ⛔
 #https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
