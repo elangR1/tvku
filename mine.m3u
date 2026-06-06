@@ -774,7 +774,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
-https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+#https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
