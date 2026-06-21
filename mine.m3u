@@ -35,15 +35,42 @@ https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="BBCFirst" group-title="BBC" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png",BBC First
+#EXTINF:-1 tvg-id="BBCFirst" group-title="BBC" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png",🌏 BBC First
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
-#EXTINF:-1 tvg-id="BBCEntertainment" group-title="BBC" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png",BBC Entertainment
+#EXTINF:-1 tvg-id="BBCEntertainment" group-title="BBC" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png",🌏 BBC Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://lo1.in/uk/itv0.png" group-title="BBC",🌏 ITV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Two
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Three
+https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Four
+https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 ########################## TES ###########################
 
@@ -799,30 +826,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;useri
 
 ########################## BBC ##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
 #https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Two
-https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Three
-https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",🌏 BBC Four
-https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",BBC News ⛔
 #https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=bbc%20news
