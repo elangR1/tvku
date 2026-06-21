@@ -664,11 +664,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash/CinemaWorld.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",📺 Outdoor
-https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -809,9 +811,6 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",Dave ⛔
 #https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=dave
-
-##EXTINF:-1 group-title="BBC",BBC Food ⛔
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/bbcfood.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BBC" tvg-logo="",5 Star ⛔
 #https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=5star
