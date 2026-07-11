@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 ########################## OTHERS #########################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://frenavit.com/wp-content/uploads/2011/02/189147100.jpg.scaled500.jpg" group-title="LOKAL",Suara Surabaya Radio
@@ -72,7 +72,7 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="TES" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO (MAX)
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="TES" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="HBO Group",HBO
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
@@ -523,6 +523,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mediampd/TV9.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",📺 ROCK ENTERTAINMENT
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BUDDY.STARS.id" tvg-name="Buddy Star" tvg-logo="https://mimipipi22.github.io/logo/movies/buddystar.jpg" group-title="MOVIES",📺 BUDDY STAR
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
