@@ -4,13 +4,14 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://frenavit.com/wp-content/uploads/2011/02/189147100.jpg.scaled500.jpg" group-title="LOKAL",Suara Surabaya Radio
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg" group-title="LOKAL" , JTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg" group-title="LOKAL" , JTV
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE" , CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE" , CGTN Documentary
 http://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png" group-title="SPORTS" , MOTOR VISION
+#EXTINF:-1 tvg-id="" group-title="SPORTS" , MOTOR VISION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
 
 ########################## BBC ###########################
