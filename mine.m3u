@@ -31,6 +31,18 @@ https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 #EXTINF:-1 group-title="SERIES" , Hawaii Five-O
 https://jmp2.uk/plu-68503d3bc692373f0158c43f.m3u8
 
+#EXTINF:-1 group-title="SERIES" , Mission Imposible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
+
+#EXTINF:-1 group-title="SERIES" , Action Series
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SERIES", Universal Crime
+https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MOVIES", Replay Movies
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+
 #EXTINF:-1 group-title="SERIES" , Mythbusters
 https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8
 
