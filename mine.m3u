@@ -34,7 +34,7 @@ https://jmp2.uk/plu-68503d3bc692373f0158c43f.m3u8
 #EXTINF:-1 group-title="SERIES" , Mission Imposible
 https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 
-#EXTINF:-1 group-title="SERIES" , Action Series
+#EXTINF:-1 group-title="SERIES" , A Team
 https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SERIES", Universal Crime
@@ -50,8 +50,11 @@ https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/480p/index.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIETY" , 5 Minutes Craft Channel
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="MOVIES", Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="MOVIES", Pluto TV Action Movies
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
 
 #EXTINF:-1 group-title="SERIES" , Tiny House Nation
 https://7e5c93fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1RpbnlIb3VzZU5hdGlvbl9ITFM/playlist.m3u8
