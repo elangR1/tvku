@@ -16,6 +16,12 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/p
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGES" , SMITSHONIAN CHANNEL
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGES" , HGTV
+https://freem3u.xyz/api/live/play.m3u8?vid=99
+
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGES" , LOVE NATURE
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="SERIES" , CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 
@@ -256,7 +262,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 ###https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",📺 HITS MOVIES
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+###http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
